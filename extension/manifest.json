@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Minimal Browser Homepage",
+  "name": "dashit",
   "version": "1.2",
   "description": "A Minimal Browser Homepage.",
   "chrome_url_overrides": {
