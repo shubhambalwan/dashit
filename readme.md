@@ -204,4 +204,5 @@ After editing extension files, click the **Reload** icon on its card to apply ch
 
 This repository is available on multiple Git hosting platforms:
 [Github](https://github.com/shubhambalwan/dashit) · [Codeberg](https://codeberg.org/shubhambalwan/dashit)
-Bath repositories are kept in sync.
+
+Both repositories are kept in sync.
