@@ -1,4 +1,4 @@
-# Minimal Browser Homepage
+# dashit: Minimal Browser Homepage
 
 A minimal, customizable browser homepage available as a Chrome extension and a standalone website. Features include Google search, search suggestions, configurable search aliases, customizable keyboard shortcuts, and a modular plugin system.
 
