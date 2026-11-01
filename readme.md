@@ -199,3 +199,9 @@ Your project may contain additional files as new features are added.
 6. Open a new tab to use your homepage.
 
 After editing extension files, click the **Reload** icon on its card to apply changes.
+
+## Mirrors
+
+This repository is available on multiple Git hosting platforms:
+[Github](https://github.com/shubhambalwan/dashit) · [Codeberg](https://codeberg.org/shubhambalwan/dashit)
+Bath repositories are kept in sync.
